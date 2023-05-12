@@ -10,7 +10,7 @@ let team=players;
 
 let team1=[players];
 
-let cap1={person};
+let cap1=person;
 	
 
 
